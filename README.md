@@ -34,4 +34,5 @@ El programa se iniciará inmediatamente, pidiéndote ingresar tareas a través d
 
 ## 🔗 Enlaces
 
-[Enlace al código fuente (`ejercicio.js`)](.js/main.js)
+[Enlace al código fuente (`.js/main.js`)](.js/main.js)
+
